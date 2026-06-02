@@ -1,0 +1,9 @@
+python-telegram-bot==13.15
+whisper
+torch
+transformers
+spacy
+fuzzywuzzy
+python-Levenshtein
+ffmpeg-python
+sentencepiece
